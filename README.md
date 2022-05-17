@@ -8,7 +8,7 @@
 ![](https://docs.simplicite.io//logos/logo250.png)
 * * *
 
-`Qualification` module definition
+`Qualification_Enum` module definition
 ============================
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=simplicite-module-qualification&metric=alert_status)](https://sonarcloud.io/dashboard?id=simplicite-module-qualification)
